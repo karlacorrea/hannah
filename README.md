@@ -16,8 +16,7 @@
 
 ## 🧐 Sobre
 
-A aplicação para melhorar a comunicação entre a trajeto e a entrega do pedido do usuário, nós criamos desenvolvemos a Hannah, a assistente virtual que acompanha o seu pedido até a entrega, ela retorna com feedsbacks aos consumidores.Tornando integridade e segurança aos usuários que compram online.
-
+Hanna, assistente virtual humanizada, composta por APIs de comunicação da Zenvia que faz a ligação com a empresa responsável pelo envio e o cliente que aguarda a entrega. A partir do momento que ocorre atraso nas entregas fazemos o mapeamento da encomenda e comunicamos a real situação do status de entrega, oferecendo mais tranqüilidade ao comprador que espera ansiosamente pelo entregador. E para compensar oferecemos também cupons de desconto para que na próxima compra o cliente possa utilizar.
 
 **[Deploy](https:)**
 <br>
@@ -28,4 +27,4 @@ Vídeo demo no **[YouTube](https://www.youtube.com/)**
 ## 👩🏻‍💻 Repositórios
 
 - **[WEB](https://github.com/)**
-- **[BACK-END](https://github.com/)**
+- **[BACK-END](https://github.com/karlacorrea/hannah)**
