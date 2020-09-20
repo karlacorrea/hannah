@@ -1,0 +1,26 @@
+
+  "type": "webhook",
+  "meta": {
+    "bucked_id": "e1ea4726-89e1-4983-84ac-fc92cb153647",
+    "bucket_name": "forward-a",
+    "input_id": "1eff80d0-b258-4175-983c-b03f8961608d",
+    "input_name": "Default public endpoint",
+    "output_name": "https://bin.webhookrelay.com/#/bins/f8235d2a-2156-4b3e-a110-0cfd9ab3a3fa",
+    "output_destination": "https://bin.webhookrelay.com/v1/webhooks/84575fa2-4d9d-4aa4-942f-4e5ffea52dae"
+  },
+  "headers": {
+    "Accept": [
+      "*/*"
+    ],
+    "Content-Length": [
+      "25"
+    ],
+    "User-Agent": [
+      "insomnia/6.6.2"
+    ],
+  },
+  "query": "",
+  "body": "{\n\t\"msg\": \"webhook msg\"\n}",
+  "method": "POST",
+  "status": "",
+  "message": ""

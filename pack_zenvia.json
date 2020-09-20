@@ -1,0 +1,25 @@
+
+
+{
+  "id": "f62e1d37-a398-4e6c-8f84-98b754e94063",
+  "timestamp": "2020-01-23T15:59:44.156Z",
+  "type": "MESSAGE_STATUS",
+  "subscriptionId": "",
+  "channel": "whatsapp",
+  "messageId": "e96293fb-d900-45f3-b64c-7874a97279e6",
+  "contentIndex": 0,
+  "messageStatus": {
+    "timestamp": "2020-01-23T15:59:43+00:00",
+    "code": "DELIVERED",
+    "description": "The message has been delivered by the provider"
+  }
+}
+
+
+
+
+
+
+
+
+
