@@ -6,7 +6,10 @@
 </h3>
 
 <br>
-
+<h3 align="center">
+   <img alt="Hannah1" title="#logo" src="https://github.com/karlacorrea/hannah/blob/master/img/hanna.jpeg">
+     <br><br>
+   <b>Hannah - a assistente virtual</b> 
 
 
 <br>
