@@ -20,7 +20,7 @@ Hanna, assistente virtual humanizada, composta por APIs de comunicação da Zenv
 
 **[Deploy](https:)**
 <br>
-Vídeo demo no **[YouTube](https://youtu.be/SQ4oPgr6CQA)**
+Vídeo pitch no **[YouTube](https://youtu.be/SQ4oPgr6CQA)**
 
 <br>
 
